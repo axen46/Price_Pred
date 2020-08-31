@@ -1,6 +1,6 @@
 # Price_Pred
 
-Prediction of Handset Type
+Prediction of price range of different Handset Type
 ==========================
 Data contains several attribute of mobile phone. 
 Define a machine learning model to predict type of mobile
