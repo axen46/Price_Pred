@@ -1,5 +1,5 @@
 # Price_Pred
-Repository of a Machine Learning Project on Price Prediction of Mobile phone handsets of different ranges.  
+
 Prediction of Handset Type
 ==========================
 Data contains several attribute of mobile phone. 
